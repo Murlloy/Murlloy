@@ -1,39 +1,5 @@
-<style>
-body {
-    background-color: black;
-}
-.cabecalho {
-    display: flex;
-    align-content: center;
-    justify-content: center;
-}
-.principal {
-    text-align: left;
-    margin-left: 10px;
-    color: white;
-    font-family: Pacifico, cursive;
-    display: flex;
 
-}
-.titulo {
-    color: white; 
-    font-family: Pacifico, cursive; 
-    font-weight: 10;
-    align-content: center;
-    text-align: center;
-}
-.mensagem {
-    padding-left: 75px;
-    padding-bottom: 100px;
-}
-
-.mensagem__titulo {
-}
-    
-</style>
-
-
-<header class="cabecalho">
+<header class="cabecalho" style="display: flex; align-content: center; justify-content: center;">
         <h1 class="titulo">Murlly</h1>
     </header>
     <section class="principal">
