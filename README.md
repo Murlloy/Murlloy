@@ -8,6 +8,10 @@
     </td>
     <td>
     <div>
+        <h3>Sobre mim</h3>
+        <p>Hey!, meu nome é Murillo Fernandes, tenho 18 anos e atualmente estou estudando Html, css e Java.</p>
+    </div>
+    <div>
         <h3>Habilidades:</h3>
             <div align="left">
                 <a href="https://github.com/" target="_blank" rel="noreferrer"> 
