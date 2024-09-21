@@ -6,11 +6,11 @@
     </div>
     <div>
         <h3>Sobre mim</h3>
-        <p>Opa, meu nome é Murillo Fernandes, tenho 18 anos e atualmente estou estudando Html, css e Java no Senai.</p>
+        <p>Opa, meu nome é Murillo Fernandes, tenho 18 anos e atualmente estou estudando Html, css e Java.</p>
     </div>
     <div>
         <h3>Habilidades:</h3>
-        <div align="right">
+        <div align="left">
             <a href="https://github.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" width="40" height="40" /> 
             </a>
