@@ -1,6 +1,6 @@
 <h1 align="center">Murlly</h1>
 
-<section align="right">
+<section align="left">
     <div>
         <img src="https://media1.tenor.com/m/BunrT3C3RmQAAAAC/neferoku-kokushib%C5%8D.gif" alt="GIF" width="300px" style="border-radius: 15px; box-shadow: 0px 0px 15px 5px rgba(128, 0, 128, 0.7);">
     </div>
@@ -10,7 +10,7 @@
     </div>
     <div>
         <h3>Habilidades:</h3>
-        <div align="right">
+        <div align="left">
             <a href="https://github.com/" target="_blank" rel="noreferrer"> 
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" width="40" height="40" /> 
             </a>
