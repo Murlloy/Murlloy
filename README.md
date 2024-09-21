@@ -31,4 +31,18 @@
             </a>
         </div>
     </div>
+    <table>
+  <tr>
+    <td>
+      <!-- Imagem à esquerda -->
+      <img src="https://media1.tenor.com/m/BunrT3C3RmQAAAAC/neferoku-kokushib%C5%8D.gif" alt="GIF" width="200px">
+    </td>
+    <td>
+      <!-- Texto à direita -->
+      <h3>Sobre mim</h3>
+      <p>Opa, meu nome é Murillo Fernandes, tenho 18 anos e atualmente estou estudando Html, css e Java no Senai.</p>
+    </td>
+  </tr>
+</table>
+
 </section>
