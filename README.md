@@ -1,4 +1,6 @@
+
 <h1 align="center">Murlly</h1>
+<table>
   <tr>
     <td>
       <img src="https://media1.tenor.com/m/BunrT3C3RmQAAAAC/neferoku-kokushib%C5%8D.gif" alt="GIF" width="200px">
