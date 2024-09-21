@@ -5,10 +5,6 @@
         <img src="https://media1.tenor.com/m/BunrT3C3RmQAAAAC/neferoku-kokushib%C5%8D.gif" alt="GIF" width="300px" style="border-radius: 15px; box-shadow: 0px 0px 15px 5px rgba(128, 0, 128, 0.7);">
     </div>
     <div>
-        <h3>Sobre mim</h3>
-        <p>Opa, meu nome é Murillo Fernandes, tenho 18 anos e atualmente estou estudando Html, css e Java no Senai.</p>
-    </div>
-    <div>
         <h3>Habilidades:</h3>
         <div align="left">
             <a href="https://github.com/" target="_blank" rel="noreferrer"> 
