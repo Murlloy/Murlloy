@@ -1,5 +1,5 @@
 
-<header class="cabecalho" style="display: flex; align-content: center; justify-content: center;">
+<header style="display: flex; align-content: center; justify-content: center;">
         <h1 class="titulo">Murlly</h1>
     </header>
     <section class="principal">
