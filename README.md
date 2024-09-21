@@ -1,6 +1,39 @@
+<style>
+body {
+    background-color: black;
+}
+.cabecalho {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.principal {
+    text-align: left;
+    margin-left: 10px;
+    color: white;
+    font-family: Pacifico, cursive;
+    display: flex;
 
-<body>
-    <header class="cabecalho">
+}
+.titulo {
+    color: white; 
+    font-family: Pacifico, cursive; 
+    font-weight: 10;
+    align-content: center;
+    text-align: center;
+}
+.mensagem {
+    padding-left: 75px;
+    padding-bottom: 100px;
+}
+
+.mensagem__titulo {
+}
+    
+</style>
+
+
+<header class="cabecalho">
         <h1 class="titulo">Murlly</h1>
     </header>
     <section class="principal">
@@ -9,7 +42,7 @@
             style="width: 300px; border-radius: 15px; box-shadow: 0px 0px 15px 5px rgba(128, 0, 128, 0.7);">
             <div class="texto">
                 <div class="mensagem">
-                    <h3>Titulo</h3>
+                    <h3>Sobre mim</h3>
                     <p>Opa, meu nome é Murillo Fernandes, tenho 18 anos e atualmente estou estudando Html, css e Java no Senai</p>
                 </div>
                 <div class="mensagem">
@@ -26,5 +59,3 @@
             </div>
         </div>
     </section>
-
-</html>
