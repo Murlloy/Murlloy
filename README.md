@@ -1,4 +1,4 @@
-<h1 align="center">Murlly</h1>
+
 <table>
 <section align="left">
     <td>
