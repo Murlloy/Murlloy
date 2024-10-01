@@ -34,8 +34,9 @@
                 </a>
                 </div>
                     <p>
-                  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?                            username=murlloy&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="murlloy" />
-                    </p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murlloy&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="murlloy" />
+</p>
+
             </div>
         </td>
 </section>
