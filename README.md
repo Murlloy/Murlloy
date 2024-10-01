@@ -33,12 +33,12 @@
                         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
                 </a>
                 </div>
+                    <p>
+                  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?                            username=murlloy&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="murlloy" />
+                    </p>
             </div>
         </td>
 </section>
-    <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murlloy&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="murlloy" />
-</p>
 
 </table>
 
