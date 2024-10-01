@@ -37,3 +37,6 @@
         </td>
 </section>
 </table>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murlloy&show_icons=true&locale=en&layout=compact" alt="murlloy" /></p>
+
