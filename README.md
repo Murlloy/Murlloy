@@ -9,7 +9,7 @@
     <td>
     <div>
         <h3>Sobre mim</h3>
-        <p>Hey!, meu nome é Murillo Fernandes, tenho 18 anos e atualmente estou estudando Html, css e Java.</p>
+        <p>Hey!, isso realmente tem sentido?</p>
     </div>
     <div>
         <h3>Habilidades:</h3>
