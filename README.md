@@ -9,7 +9,7 @@
     <td>
     <div>
         <h3>Sobre mim</h3>
-        <p>Hey!, isso realmente tem sentido?</p>
+        <p>Hey!, JavaScript bla bla bla</p>
     </div>
     <div>
         <h3>Habilidades:</h3>
