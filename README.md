@@ -9,7 +9,7 @@
     <td>
     <div>
         <h3>Sobre mim</h3>
-        <p>Hey!, JavaScript bla bla bla</p>
+        <p>Hey!, Murillo Fernandes, pronto para qualquer novo desafio</p>
     </div>
     <div>
         <h3>Habilidades:</h3>
