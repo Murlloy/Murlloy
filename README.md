@@ -3,7 +3,7 @@
 <section align="left">
     <td>
         <div>
-            <img src="https://media1.tenor.com/m/BunrT3C3RmQAAAAC/neferoku-kokushib%C5%8D.gif" alt="GIF" width="300px" style="border-radius: 15px; box-shadow: 0px 0px 15px 5px rgba(128, 0, 128, 0.7);">
+            <img src="[https://media1.tenor.com/m/BunrT3C3RmQAAAAC/neferoku-kokushib%C5%8D.gif](https://i.pinimg.com/originals/70/47/d3/7047d3e8ad2edf31bcf20df89b51d357.gif)" alt="GIF" width="300px" style="border-radius: 15px; box-shadow: 0px 0px 15px 5px rgba(128, 0, 128, 0.7);">
         </div>
     </td>
     <td>
