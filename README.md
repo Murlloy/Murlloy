@@ -3,7 +3,7 @@
 <section align="left">
     <td>
         <div>
-            <img src="https://www.gifcen.com/wp-content/uploads/2024/05/satoru-gojo-gif.gif" alt="GIF" width="300px" style="border-radius: 15px; box-shadow: 0px 0px 15px 5px rgba(128, 0, 128, 0.7);">
+            <img src="https://gifdb.com/images/high/kokushibo-ready-to-fight-9gjqhlku6yquuz57.gif" alt="GIF" width="300px" style="border-radius: 15px; box-shadow: 0px 0px 15px 5px rgba(128, 0, 128, 0.7);">
         </div>
     </td>
     <td>
