@@ -45,6 +45,12 @@
 
 </table>
 
+###
+
+<img src="https://raw.githubusercontent.com/lucascorreaa/lucascorreaa/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 
 
