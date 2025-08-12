@@ -32,6 +32,10 @@
                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
                         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
                 </a>
+                </a>
+                        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">                    
+                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+                </a>
                 </div>
                  <br>
                     <p>
